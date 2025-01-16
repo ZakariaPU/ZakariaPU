@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Developing a complaint management system for internet and telephone issues as part of a collaborative project.<br><br>👯 I’m looking to collaborate on:<br>Data analysis, software development, and IT system optimization projects that require innovative problem-solving and teamwork.<br><br>🤝 I’m looking for help with:<br>Expanding my knowledge in advanced back-end development frameworks like Node.js and exploring tools like Docker for containerization.<br><br>🌱 I’m currently learning:<br>Laravel, advanced PHP, and refining my skills in data-driven decision-making for business efficiency.<br><br>💬 Ask me about:<br>Data analytics, software development, IT support, and how to implement ISO IEC 27001:2013 standards for management systems.<br><br>⚡ Fun fact:<br>I thrive in roles that combine technical expertise with leadership, and I once increased a podcast's viewership and subscribers by 20% through effective project management and content strategy!
+👯 I’m looking to collaborate on:<br>Data analysis, software development, and IT system optimization projects that require innovative problem-solving and teamwork.<br><br>🤝 I’m looking for help with:<br>Expanding my knowledge in advanced back-end development frameworks like Node.js and exploring tools like Docker for containerization.<br><br>🌱 I’m currently learning:<br>Laravel, advanced PHP, and refining my skills in data-driven decision-making for business efficiency.<br><br>💬 Ask me about:<br>Data analytics, software development, IT support, and how to implement ISO IEC 27001:2013 standards for management systems.<br><br>⚡ Fun fact:<br>I thrive in roles that combine technical expertise with leadership, and I once increased a podcast's viewership and subscribers by 20% through effective project management and content strategy!
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZakariaPU&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZakariaPU&limit=5&theme=dark&combine_all_yearly_contributions=true)
