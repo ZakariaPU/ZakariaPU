@@ -1,5 +1,8 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on:<br>Data analysis, software development, and IT system optimization projects that require innovative problem-solving and teamwork.<br><br>🤝 I’m looking for help with:<br>Expanding my knowledge in advanced back-end development frameworks like Node.js and exploring tools like Docker for containerization.<br><br>🌱 I’m currently learning:<br>Laravel, advanced PHP, and refining my skills in data-driven decision-making for business efficiency.<br><br>💬 Ask me about:<br>Data analytics, software development, IT support, and how to implement ISO IEC 27001:2013 standards for management systems.<br><br>⚡ Fun fact:<br>I thrive in roles that combine technical expertise with leadership, and I once increased a podcast's viewership and subscribers by 20% through effective project management and content strategy!
+Candidate for Information Systems Graduate of Atma Jaya University Yogyakarta (GPA 3.81/4.00) with 2++ years of experience in system development, data analysis, and IT project management. Mastering SDLC starting from requirements analysis (BRD/SRS), UML modeling, to web application deployment, with a portfolio of 6+ projects such as Laravel & CodeIgniter-based POS systems, environmental analytics dashboards (Python/Looker Studio/Power BI), and WordPress company profile development. Competent in SQL database design and information security implementation according to ISO/IEC 27001:2013 standards. Proven to be able to deliver technical solutions effectively through the Best Presenter award for the 2023 National Information Technology Seminar.
+
+Contact: zakariapryutm@gmail.com
+Portfolio: https://zakaria-personal-web.vercel.app/
 
 
 ## 🌐 Socials:
