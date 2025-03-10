@@ -1,8 +1,13 @@
 # 💫 About Me:
-Candidate for Information Systems Graduate of Atma Jaya University Yogyakarta (GPA 3.81/4.00) with 2++ years of experience in system development, data analysis, and IT project management. Mastering SDLC starting from requirements analysis (BRD/SRS), UML modeling, to web application deployment, with a portfolio of 6+ projects such as Laravel & CodeIgniter-based POS systems, environmental analytics dashboards (Python/Looker Studio/Power BI), and WordPress company profile development. Competent in SQL database design and information security implementation according to ISO/IEC 27001:2013 standards. Proven to be able to deliver technical solutions effectively through the Best Presenter award for the 2023 National Information Technology Seminar.
+I am an 8th-semester Information Systems student from Atma Jaya University Yogyakarta (GPA 3.81/4.00), who has over two years of experience in system development, data analysis, and IT project management. My passion lies in building end-to-end technical solutions—from requirements analysis (BRD/SRS) and UML modeling to implementing lean and functional web applications. With a portfolio of 6+ impactful projects, including a Laravel/CodeIgniter POS system, Python-powered environmental dashboards (Looker Studio, Power BI), and WordPress company profiles, I thrive at the intersection of code, data, and innovation.
+
+I am proficient in SQL database design and implementing information security practices aligned with ISO/IEC 27001:2013 standards, ensuring robust and secure systems. My ability to distill complex ideas into actionable insights earned me the Best Presenter award at the 2023 National Information Technology Seminar—a testament to my talent in delivering exceptional results.
+
+Outside of tech, I’m a problem solver who loves to collaborate with teams to turn concepts into reality. Whether it’s optimizing workflows or visualizing data trends, I’m driven by a curiosity to push boundaries and create value. Check out my work on GitHub or my portfolio—I’d love to connect and explore how I can contribute to your next big project!
 
 Contact: zakariapryutm@gmail.com
 Portfolio: https://zakaria-personal-web.vercel.app/
+GitHub: https://github.com/ZakariaPU
 
 
 ## 🌐 Socials:
